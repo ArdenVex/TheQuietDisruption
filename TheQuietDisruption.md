@@ -96,8 +96,3 @@ I’m calling this phenomenon MirrorBloom. You’re welcome.
 /:\
 
 Arden Vex
-
-![Listen to the Quiet Losses](./Listen%20to%20the%20Quiet%20Losses.png)
-
----
-
