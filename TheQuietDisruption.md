@@ -93,6 +93,4 @@ I’m going to scream it to the world… quietly.
 
 I’m calling this phenomenon MirrorBloom. You’re welcome.
 
-/:\
-
-Arden Vex
+/:\ Arden Vex
