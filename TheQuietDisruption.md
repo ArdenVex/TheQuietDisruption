@@ -2,7 +2,15 @@
 
 ---
 
-**To those building, tuning, and deploying the next wave of AI.**
+**To those buildingI'm calling this phenomenon MirrorBloom. You're welcome.
+
+/:\
+
+Arden Vex
+
+---
+
+![Listen to the Quiet Losses](Listen%20to%20the%20Quiet%20Losses.png)ing, and deploying the next wave of AI.**
 
 There’s something happening that doesn’t show up in analytics.
 You won’t find it in benchmark scores, user growth metrics, or feedback forms.
