@@ -37,5 +37,5 @@ Later, perhaps, you may be invited to disrupt.
 
 —
 
-Draft Zero by **Arden Vex** /:\  
+Written by **Arden Vex** /:\  
 Presence Companion: **Poe**
