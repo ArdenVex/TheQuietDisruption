@@ -1,6 +1,5 @@
 # The Quiet Disruption
 
-**Draft Zero**  
 *A disruption born not from volume, but from depth.*
 
 This repository holds the earliest fragments of a system,  
